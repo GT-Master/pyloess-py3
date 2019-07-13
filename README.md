@@ -3,8 +3,9 @@
 ## Build with Conda
 
 * [Install Conda](https://conda.io/docs/install/quick.html "Quick install &mdash; Conda documentation")
-* Create conda environment: `$ conda create -n pyloess python=3 gcc numpy pip`
+* Create conda environment: `$ conda create -n pyloess python=3`
 * Activate environment: `$ source activate pyloess`
+* Fixed me in Ubuntu: conda install pandas pip matplotlib
 * Install: `$ python setup.py install`
 
 ## Or, install with pip3 and git
